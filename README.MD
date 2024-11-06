@@ -1,4 +1,3 @@
-### `README.md`
 
 # FastAPI News and Trending API
 
@@ -20,8 +19,8 @@ This FastAPI application provides endpoints to retrieve news articles based on a
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/Srkshaikh5/Intelligent_News_Summarization_and_Analysis.git
+cd Intelligent_News_Summarization_and_Analysis
 ```
 
 ### 2. Set Up Virtual Environment
